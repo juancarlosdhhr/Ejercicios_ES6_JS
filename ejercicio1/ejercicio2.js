@@ -30,4 +30,4 @@ const toyUpdate = {lights: 'rgb', power: ['Volar like a dragon', 'MoonWalk']}
 
 const colors = ['rojo', 'azul', 'amarillo', 'verde', 'naranja'];
 
-  */
+ */
