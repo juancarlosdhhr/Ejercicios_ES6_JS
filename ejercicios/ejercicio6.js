@@ -14,14 +14,14 @@ const exams = [
 ];
 
 
-/* const sumanotas = exams.reduce((accumulator, exam) => {
+const sumanotas = exams.reduce((accumulator, exam) => {
 
 return accumulator + exam.score;
 
 },0) ;
 
 console.log(sumanotas);
- */
+ 
 
 
 
@@ -29,7 +29,7 @@ console.log(sumanotas);
 //6.2 Dado el mismo array, haz una suma de todos las notas de los examenes de los alumnos que esten aprobados usando la función .reduce().
 
 
-/* const sumanotas = exams.reduce((accumulator, exam) => {
+const sumanotas = exams.reduce((accumulator, exam) => {
 
 if (exam.score >= 5)  {
 
@@ -45,7 +45,7 @@ return accumulator;
     
     console.log(sumanotas);
     
-     */
+     
 
 
 //6.3 Dado el mismo array, haz la media de las notas de todos los examenes .reduce().
